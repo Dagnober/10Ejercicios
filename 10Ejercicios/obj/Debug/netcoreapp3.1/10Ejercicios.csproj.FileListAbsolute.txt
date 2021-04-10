@@ -1,0 +1,13 @@
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.exe
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.deps.json
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.runtimeconfig.json
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.runtimeconfig.dev.json
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.dll
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\bin\Debug\netcoreapp3.1\10Ejercicios.pdb
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.csprojAssemblyReference.cache
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.AssemblyInfoInputs.cache
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.AssemblyInfo.cs
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.dll
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.pdb
+C:\Users\wluis\Documents\ADSI\TRIMESTRE 2\Jesus Ropero\10Ejercicios\10Ejercicios\obj\Debug\netcoreapp3.1\10Ejercicios.genruntimeconfig.cache
